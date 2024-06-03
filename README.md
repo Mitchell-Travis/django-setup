@@ -13,7 +13,7 @@ This script automates the process of setting up a Django project and pushing it 
 1. Clone this repository or download the script file.
 2. Open a terminal or command prompt.
 3. Navigate to the directory where the script is located.
-4. Run the script by executing `python3 setup_script.py`.
+4. Run the script by executing `python3 django_setup.py`.
 5. Follow the prompts to enter the required information:
    - Folder name for the project
    - Django project name
